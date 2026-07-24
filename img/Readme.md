@@ -1,2 +1,1 @@
-<img width="640" height="1324" alt="imgjammu" src="https://github.com/user-attachments/assets/5aab4113-09bf-4096-bfc7-f127fb5750a8" />
-
+<img width="640" height="1324" alt="jammu" src="https://github.com/user-attachments/assets/be7b43f9-219f-49a5-865c-fb150867d0ca" />
