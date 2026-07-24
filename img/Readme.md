@@ -1,1 +1,9 @@
-<img width="640" height="1324" alt="jammu" src="https://github.com/user-attachments/assets/be7b43f9-219f-49a5-865c-fb150867d0ca" />
+Adding Photos and Videos
+To personalize this template, add your own photos and videos to this folder.
+
+Steps
+Place your photos or videos inside this folder.
+Rename your photos to match the filenames used in the index.html file.
+Example format: img/name_of_your_photo.jpg img/name_of_your_photo.png img/name_of_your_photo.jpeg
+
+Make sure the filename in index.html matches the name of your image file exactly.
